@@ -1,6 +1,6 @@
 # Vader Protocol - Incentivised Liquidity, Stablecoin and Lending Protocol.
 
-VADER is a liquidity protocol that combines a collateralized stablecoin with liquidity pools. The stablecoin, USDV, is issued by burning VADER tokens, which is issued by burning VETH tokens. Liquidity pools use both USDV as the settlement asset, as well as VADER in order to send the correct purchasing power of VADER. A daily emission rate of VADER funds liquidity incentives, a protocol interest rate, and impermanent loss protection. Pooled capital can be lent out by borrowers, who lock collateral such as synths, pool share or VADER. The collateral is used to pay an interest rate which is added into the pools to increase returns. 
+VADER is a liquidity protocol that combines a collateralized stablecoin with liquidity pools. The stablecoin, USDV, is issued by burning NFT tokens, which is issued by burning NFT tokens. Liquidity pools use both USDV as the settlement asset, as well as VADER in order to send the correct purchasing power of VADER. A daily emission rate of VADER funds liquidity incentives, a protocol interest rate, and impermanent loss protection. Pooled capital can be lent out by borrowers, who lock collateral such as synths, pool share or VADER. The collateral is used to pay an interest rate which is added into the pools to increase returns. 
 
 ## Smart Contracts
 
@@ -31,7 +31,7 @@ FACTORY
 * Deploys Synthetic Assets
 
 SYNTH
-* ERC20 for Synths
+* NFT for Synths
 
 DAO
 * Has Governance Ability on the ecosystem, senses Weight in the USDV Contract
